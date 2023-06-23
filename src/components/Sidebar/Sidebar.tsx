@@ -1,6 +1,5 @@
 import "./Sidebar.css"
 import Stack from "react-bootstrap/Stack"
-import Container from "react-bootstrap/Container"
 
 const Sidebar = () => {
   return (

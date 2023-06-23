@@ -1,0 +1,8 @@
+#bannerRow img {
+  height: 27vh;
+  width: 20vw;
+}
+
+#bannerRow > .col {
+  background-color: rgba(217, 248, 251, 255);
+}
